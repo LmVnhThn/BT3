@@ -4,9 +4,9 @@ import quartic from './chart_type_modules/quartic.js'
 import { sinFunction, cosFunction, tanFunction } from './chart_type_modules/trigonometric.js'
 
 let coeffDics = {
-	bacHai: ['a-coeff', 'b-coeff', 'c-coeff'],
-	bacBa: ['a-coeff', 'b-coeff', 'c-coeff', 'd-coeff'],
-	bacBon: ['a-coeff', 'b-coeff', 'c-coeff'],
+	Hai: ['a-coeff', 'b-coeff', 'c-coeff'],
+	Ba: ['a-coeff', 'b-coeff', 'c-coeff', 'd-coeff'],
+	Bon: ['a-coeff', 'b-coeff', 'c-coeff'],
 	sin: [],
 	cos: [],
 	tan: []
